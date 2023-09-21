@@ -44,8 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lukas-jos/Lukas-jos/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
