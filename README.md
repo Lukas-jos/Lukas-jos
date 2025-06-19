@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/lucas-souza-779927135/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="88" height="76" alt="linkedin logo"  />
   </a>
-  <a href="kuroneko3446" target="_blank">
+  <a href="https://discordapp.com/users/kuroneko3446" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="88" height="76" alt="discord logo"  />
   </a>
 </div>
@@ -45,11 +45,5 @@
 ###
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12162590515">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
